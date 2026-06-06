@@ -2,7 +2,6 @@ bin/
 obj/
 *.exe
 *.o
-*.out
 *.cbp
 *.depend
 *.layout
